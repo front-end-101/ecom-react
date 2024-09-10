@@ -1,0 +1,19 @@
+.card{
+    background: #fff;
+    flex-grow: 1;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* max-width: 300px; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+/* title
+price */

@@ -1,0 +1,53 @@
+.cart{
+    width: 100vw;
+    padding: 30px;
+}
+
+.wrapper{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 10px;
+}
+
+.cartItems{
+    flex: 3;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+
+.total{
+    flex: 1;
+}
+
+.total h1{
+    margin-bottom: 30px;
+}
+
+.total ul{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.total li{
+    display: flex;
+    justify-content: space-between;
+}
+
+.total h2{
+    margin: 30px 0;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+.payment{
+    padding: 10px;
+}
+
+.itemPrice{
+    color: rgb(53, 116, 137);
+}

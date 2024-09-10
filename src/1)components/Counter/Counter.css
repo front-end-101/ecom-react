@@ -1,0 +1,18 @@
+.counter{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 500px;
+}
+
+.counter h2{
+    font-size: 60px;
+    margin: 0 auto;
+    color: black;
+}
+
+.counter button{
+    padding: 8px 12px;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+footer{
+    flex: 1;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-login{
+    background: rgb(99, 208, 99);
+}
+
+.footer-logout{
+    background: tomato;
+}

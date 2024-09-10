@@ -1,0 +1,10 @@
+.btn{
+    padding: 10px 15px;
+    font-size: 20px;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}

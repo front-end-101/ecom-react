@@ -1,0 +1,20 @@
+.profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+.menu{
+    position: absolute;
+    top: 50px;
+    right: 10px;
+    z-index: 10;
+    background: #eee;
+    padding: 10px;
+}
+

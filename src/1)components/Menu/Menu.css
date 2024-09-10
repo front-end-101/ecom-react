@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+h5{
+    margin-top: 10px;
+}
